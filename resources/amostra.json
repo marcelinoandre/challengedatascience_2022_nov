@@ -1,0 +1,59 @@
+{
+  "anuncio":{
+    "id":"47d553e0-79f2-4a46-9390-5a3c962740c2",
+    "caracteristicas":[
+      
+    ],
+    "area_util":[
+      "16"
+    ],
+    "tipo_anuncio":"Usado",
+    "tipo_unidade":"Outros",
+    "andar":0,
+    "vaga":[
+      1
+    ],
+    "suites":[
+      0
+    ],
+    "banheiros":[
+      0
+    ],
+    "tipo_uso":"Comercial",
+    "area_total":[
+      
+    ],
+    "quartos":[
+      0
+    ],
+    "valores":[
+      {
+        "iptu":"107",
+        "condominio":"260",
+        "valor":"10000",
+        "tipo":"Venda"
+      }
+    ],
+    "endereco":{
+      "pais":"BR",
+      "cep":"20061003",
+      "cidade":"Rio de Janeiro",
+      "longitude":-43.18671,
+      "latitude":-22.906082,
+      "zona":"Zona Central",
+      "rua":"Rua Buenos Aires",
+      "estado":"Rio de Janeiro",
+      "bairro":"Centro"
+    }
+  },
+  "usuario":{
+    "id":"9d44563d-3405-4e84-9381-35b7cf40a9a4",
+    "nome":"Frank"
+  },
+  "imagens":[
+    {
+      "id":"39d6282a-71f3-47bc-94aa-909351ecd881",
+      "url":"https:\/\/api.images.insightplaces.com.br\/{type}\/{width}\/{height}\/1b08098d-f2dc-439c-b604-a4e50d12774b.jpg"
+    }
+  ]
+}
